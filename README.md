@@ -4,6 +4,7 @@
 
 ## Next topics
 
-- Item 53
+- item 41
+- item 48
 - @classmethod decorator in depth (extra)
 - study yield keyword and generators
